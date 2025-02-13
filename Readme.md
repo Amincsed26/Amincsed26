@@ -81,5 +81,5 @@ Developed a basic shell program with command execution, file management (create,
 
 Feel free to connect with me or reach out via email. I'm open to collaborating on projects, learning, or any software engineering opportunities.
 
-- **LinkedIn:** [linkedin.com/in/amin](https://linkedin.com/in/amin)
+- **LinkedIn:** [linkedin.com/in/amin](https://linkedin.com/in/amin-mohamed-cse/)
 - **Email:** es-amin.mohamedamin2026@alexu.edu.eg
