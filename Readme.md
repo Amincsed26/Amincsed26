@@ -1,14 +1,11 @@
-# Amin Mohamed Amin's Software Engineering Portfolio
+**Hi there! 👋**  
+Welcome to my GitHub profile! I'm Amin Mohamed Amin, a passionate and motivated **Software Engineer** based in **Alexandria, Egypt**. I specialize in creating clean, efficient, and impactful software solutions. With expertise in **Java**, **Python**, **JavaScript**, and frameworks like **Spring Boot** and **React**, I'm constantly exploring new technologies and expanding my knowledge in the world of software development.
 
 **Location:** Alexandria, Egypt  
 **Email:** es-amin.mohamedamin2026@alexu.edu.eg  
-**Phone:** 0122 642 0368  
-**LinkedIn:** [linkedin.com/in/amin](https://linkedin.com/in/amin)
-
 ---
 
 ## Summary
-
 I am a highly skilled and motivated Software Engineer with a strong background in creating and improving software solutions. I am proficient in **Java**, **Python**, and **JavaScript**, and have experience with frameworks like **Spring Boot** and **React**. I am focused on writing clean, efficient code while collaborating to build high-quality applications.
 
 ---
@@ -47,25 +44,6 @@ A simple operating system for the 80x86 architecture, originally designed by Sta
 ### 2. Parking Lot Management System (Spring Boot, React) | 2024 - 2025
 Developed a system for parking spot reservations, including real-time availability updates and dynamic pricing. Features include IoT sensor simulation, role-based access (for drivers, managers, and administrators), and transaction consistency.
 
-### 3. Connect Four Engine (Flask) | 2024
-Built a Connect 4 game with a GUI that features Human vs. AI mode using Minimax and Alpha-Beta Pruning. It includes tree rendering to display the Minimax tree for each move.
-
-### 4. Feedify (Spring Boot, React) | 2024 - 2025
-Developed a social media app where users can customize their feed by selecting topics of interest. The project followed an Agile methodology to ensure iterative progress.
-
-### 5. Paint (Spring Boot, Vue.js) | 2023 - 2024
-Created a web-based drawing application with a responsive canvas, customizable tools, and file management features, allowing users to save, load, and manage their artwork.
-
-### 6. Eight Puzzle (Python, PyQt5) | 2023 - 2024
-Developed an Eight-Puzzle game with AI algorithms like BFS, DFS, A*, and IDS to solve puzzles by arranging tiles in a specific order.
-
-### 7. Email Application (Spring Boot, Vue.js) | 2023 - 2024
-Built a modern email app with secure user authentication, the ability to send, receive, and manage emails with attachments, and advanced email search and filtering options.
-
-### 8. Shell (C) | 2024
-Developed a basic shell program with command execution, file management (create, delete, list), directory navigation, and support for environment variables.
-
----
 
 ## Certifications
 
