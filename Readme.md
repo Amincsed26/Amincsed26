@@ -1,13 +1,6 @@
 **Hi there! 👋**  
 Welcome to my GitHub profile! I'm Amin Mohamed Amin, a passionate and motivated **Software Engineer** based in **Alexandria, Egypt**. I specialize in creating clean, efficient, and impactful software solutions. With expertise in **Java**, **Python**, **JavaScript**, and frameworks like **Spring Boot** and **React**, I'm constantly exploring new technologies and expanding my knowledge in the world of software development.
 
-**Location:** Alexandria, Egypt  
-**Email:** es-amin.mohamedamin2026@alexu.edu.eg  
----
-
-## Summary
-I am a highly skilled and motivated Software Engineer with a strong background in creating and improving software solutions. I am proficient in **Java**, **Python**, and **JavaScript**, and have experience with frameworks like **Spring Boot** and **React**. I am focused on writing clean, efficient code while collaborating to build high-quality applications.
-
 ---
 
 ## Skills
