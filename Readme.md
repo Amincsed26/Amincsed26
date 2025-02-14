@@ -5,30 +5,6 @@ Welcome to my GitHub profile! I'm Amin Mohamed Amin, a passionate and motivated 
 
 ## Skills
 
-### Technical Skills
-
-I possess a range of technical skills across different programming languages, frameworks, and tools. Below is a visual representation of my expertise:
-
-#### Programming Languages:
-![Programming Languages Chart](https://img.shields.io/badge/Skills-Python%20%7C%20Java%20%7C%20C%20%7C%20JavaScript-orange?style=for-the-badge&logo=python&logoColor=yellow)
-
-#### Frameworks & Libraries:
-![Frameworks Chart](https://img.shields.io/badge/Frameworks-Spring%20Boot%20%7C%20React%20%7C%20Vue.js%20%7C%20Flask-blue?style=for-the-badge&logo=react&logoColor=white)
-
-#### Databases:
-![Databases Chart](https://img.shields.io/badge/Databases-SQL%20%7C%20MySQL-green?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### Tools & Technologies:
-![Tools Chart](https://img.shields.io/badge/Tools-Docker%20%7C%20Git%20%7C%20AWS%20%7C%20TensorFlow%20%7C%20PyTorch-purple?style=for-the-badge)
-
-### Soft Skills
-- **Communication**
-- **Problem Solving**
-- **Time Management**
-- **Adaptability**
-
----
-
 ## Selected Projects
 
 ### 1. Stanford PintOS (C) | 2024
