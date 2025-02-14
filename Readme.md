@@ -8,10 +8,9 @@ A simple operating system for the 80x86 architecture, originally designed by Sta
 
 ### 2. Parking Lot Management System (Spring Boot, React) | 2024 - 2025
 Developed a system for parking spot reservations, including real-time availability updates and dynamic pricing. Features include IoT sensor simulation, role-based access (for drivers, managers, and administrators), and transaction consistency.
----
+
 
 ## Contact
-
 Feel free to connect with me or reach out via email. I'm open to collaborating on projects, learning, or any software engineering opportunities.
 
 - **LinkedIn:** [linkedin.com/in/amin](https://linkedin.com/in/amin-mohamed-cse/)
