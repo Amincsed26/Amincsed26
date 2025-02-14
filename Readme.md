@@ -1,10 +1,6 @@
 **Hi there! 👋**  
 Welcome to my GitHub profile! I'm Amin Mohamed Amin, a passionate and motivated **Software Engineer** based in **Alexandria, Egypt**. I specialize in creating clean, efficient, and impactful software solutions. With expertise in **Java**, **Python**, **JavaScript**, and frameworks like **Spring Boot** and **React**, I'm constantly exploring new technologies and expanding my knowledge in the world of software development.
 
----
-
-## Skills
-
 ## Selected Projects
 
 ### 1. Stanford PintOS (C) | 2024
