@@ -48,9 +48,9 @@ I am a passionate Computer Engineering student focused on building high-performa
 
 | Platform | Link |
 | :--- | :--- |
-| 🔵 **LinkedIn** | [linkedin.com/in/amin-mohamed-cse](#) |
+| 🔵 **LinkedIn** | [linkedin.com/in/amin-mohamed](https://www.linkedin.com/in/amin-mohamed-cse/) |
 | 📧 **Gmail** | [amincsed@gmail.com](mailto:amincsed@gmail.com) |
-| 💻 **LeetCode** | [Amencsed](#) |
+| 💻 **LeetCode** | [Amincsed](https://leetcode.com/u/Amencsed/) |
 
 ---
 
