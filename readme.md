@@ -7,8 +7,8 @@ I am a passionate Computer Engineering student focused on building high-performa
 
 ### 📊 My GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amencsed26&layout=compact&theme=vision-glow" alt="Amin's Top Langs" />
-<img src="https://github-readme-stats.vercel.app/api?username=Amencsed26&show_icons=true&theme=vision-glow" alt="Amin's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amincsed26&layout=compact&theme=tokyonight&hide_border=true" alt="Amin's Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=Amincsed26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amin's Stats" />
 </p>
 
 ---
